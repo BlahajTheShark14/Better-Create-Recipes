@@ -1,0 +1,24 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:prismarine"
+    }
+  ],
+  "processingTime": 200,
+  "results": [
+    {
+      "chance": 0.75,
+      "item": "create:zinc_nugget"
+    },
+    {
+      "count": 2,
+      "chance": 0.40,
+      "item": "create:zinc_nugget"
+    },
+    {
+      "chance": 0.25,
+      "item": "minecraft:prismarine_shard"
+    }
+  ]
+}

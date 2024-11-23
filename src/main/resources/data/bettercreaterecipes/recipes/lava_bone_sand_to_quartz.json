@@ -1,0 +1,36 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:bone",
+      "amount": 1
+    },
+    {
+      "item": "minecraft:bone",
+      "amount": 1
+    },
+    {
+      "item": "minecraft:sand",
+      "amount": 1
+    },
+    {
+      "item": "minecraft:sand",
+      "amount": 1
+    },
+    {
+      "item": "minecraft:sand",
+      "amount": 1
+    },
+    {
+      "fluid": "minecraft:lava",
+      "amount": 10
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:quartz",
+      "count": 2
+    }
+  ],
+  "heatRequirement": "heated"
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "bettercreaterecipes:block/hot_tuff"
+  }
+}

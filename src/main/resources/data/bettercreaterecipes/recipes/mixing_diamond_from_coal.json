@@ -1,0 +1,39 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:coal",
+      "amount": 1
+    },
+    {
+      "item": "minecraft:coal",
+      "amount": 1
+    },
+    {
+      "item": "minecraft:coal",
+      "amount": 1
+    },
+    {
+      "item": "minecraft:coal",
+      "amount": 1
+    },
+    {
+      "item": "minecraft:coal",
+      "amount": 1
+    },
+    {
+      "item": "minecraft:coal",
+      "amount": 1
+    },
+    {
+      "fluid": "minecraft:lava",
+      "amount": 20
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:diamond"
+    }
+  ],
+  "heatRequirement": "none"
+}
