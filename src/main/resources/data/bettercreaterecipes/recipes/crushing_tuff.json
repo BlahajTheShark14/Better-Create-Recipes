@@ -1,0 +1,31 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:tuff"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:iron_nugget",
+      "count": 2,
+      "chance": 0.75
+    },
+    {
+      "item": "create:copper_nugget",
+      "count": 2,
+      "chance": 0.75
+    },
+    {
+      "item": "minecraft:gold_nugget",
+      "count": 2,
+      "chance": 0.75
+    },
+    {
+      "item": "create:zinc_nugget",
+      "count": 2,
+      "chance": 0.75
+    }
+  ],
+  "processingTime": 300
+}

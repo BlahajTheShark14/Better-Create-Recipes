@@ -1,0 +1,10 @@
+{
+  "type": "createaddition:charging",
+  "input": {
+    "item": "tfmg:steel_ingot"
+  },
+  "energy": 10000,
+  "result": {
+    "item": "tfmg:magnetic_ingot"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "tfmg:steel_ingot"
+    },
+    {
+      "fluid": "minecraft:lava",
+      "amount": 10
+    }
+  ],
+  "results": [
+    {
+      "item": "tfmg:aluminum_ingot",
+      "count": 2
+    }
+  ]
+}

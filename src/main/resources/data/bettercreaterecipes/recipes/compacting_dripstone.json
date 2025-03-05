@@ -1,0 +1,26 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "minecraft:calcite"
+    },
+    {
+      "item": "create:ochrum"
+    },
+    {
+      "item": "minecraft:gravel"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:pointed_dripstone",
+      "count": 2
+    },
+    {
+      "item": "minecraft:pointed_dripstone",
+      "count": 1,
+      "chance": 0.5
+    }
+  ],
+  "heatRequirement": "heated"
+}
